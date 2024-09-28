@@ -1,4 +1,4 @@
-foryou = []
+#THIS IS MY LIFE'S WORK
 print('What do you want to do?')
 database = input("do it: ") # in here put either rewrite, add, or read_it
 
